@@ -22,7 +22,7 @@ By using **OpenCV**, **Python**, and a bit of **color masking**, we can make a c
 ---
 
 ## 📂 Project Files
-- `cloak.py` → Main script to run the invisibility effect
+- `invisibility_cloak.py` → Main script to run the invisibility effect
 - `requirements.txt` → Required libraries
 - `notebook.ipynb` → Step-by-step explanation (optional)
 - `demo.gif` → Output demo
@@ -45,11 +45,11 @@ By using **OpenCV**, **Python**, and a bit of **color masking**, we can make a c
 ## ⚡ Run It
 ```bash
 # Clone this repo
-git clone https://github.com/<your-username>/Invisibility-Cloak-OpenCV.git
+git clone https://github.com/WhoisHarsha/InvisibilityCloak-OpenCV.git
 cd Invisibility-Cloak-OpenCV
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the project
-python cloak.py
+python invisibility_cloak.py
